@@ -1,4 +1,4 @@
-enum Level {
+enum Nivel {
   BAIXO,
   MEDIO,
   ALTO
@@ -6,7 +6,7 @@ enum Level {
 
 public class Main {
   public static void main (String[] args) {
-    Level minhaVar = Level.MEDIO;
+    Nivel minhaVar = Nivel.MEDIO;
     System.out.println(minhaVar);
   }
 }
