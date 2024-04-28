@@ -11,3 +11,7 @@ public class Ex1 {
 		System.out.println("Depois de formatado: " + horaFormatada);
 	}
 }
+//yyyy-MM-dd     -> "1988-09-29"	
+//dd/MM/yyyy     -> "29/09/1988"	
+//dd-MMM-yyyy    -> "29-Sep-1988"	
+//E, MMM dd yyyy -> "Thu, Sep 29 1988"
